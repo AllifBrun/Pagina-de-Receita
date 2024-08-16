@@ -71,3 +71,9 @@ section{
     box-sizing: border-box;
 
 }
+
+footer{
+    padding: 0 0 48px 0;
+    text-align: center;
+    color: #F0E8C2;
+}
